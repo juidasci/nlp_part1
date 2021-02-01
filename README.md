@@ -18,3 +18,5 @@ Part1 - NLP經典機器學習馬拉松 ～ Homework
 ## D03 正規表達式
 [Day03_HW](https://github.com/juidasci/nlp_part1/blob/main/homework/Day03.ipynb)
 
+## D04 正規表達式
+[Day04_HW](https://github.com/juidasci/nlp_part1/blob/main/homework/Day04.ipynb)

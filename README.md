@@ -27,3 +27,9 @@ Part1 - NLP經典機器學習馬拉松 ～ Homework
 
 ## D05 NLP 中文斷詞
 [Day05_HW](https://github.com/juidasci/nlp_part1/blob/main/homework/Day05.ipynb)
+
+## D06 使用結巴進行中文斷詞
+[Day06_HW](https://github.com/juidasci/nlp_part1/blob/main/homework/Day06.ipynb)
+
+## D07 使用 CkipTagger 進行中文斷詞
+[Day07_HW](https://github.com/juidasci/nlp_part1/blob/main/homework/Day07.ipynb)
